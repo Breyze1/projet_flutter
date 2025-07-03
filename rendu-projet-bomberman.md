@@ -89,7 +89,7 @@ bomberman_flutter/
 
 ##  Lien vers le Dépôt Git
 
-**Dépôt GitHub :** [Insérer ici le lien vers votre dépôt GitHub]
+**Dépôt GitHub :** https://github.com/Breyze1/projet_flutter
 
 **Branche principale :** `main` ou `master`
 
