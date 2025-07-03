@@ -14,9 +14,7 @@ Ce projet consiste en l'implémentation d'un jeu Bomberman classique développé
 - **Système de bombes** : Placement et explosion de bombes avec propagation
 - **Power-ups** : Collecte d'améliorations pour augmenter la puissance des bombes
 - **Système de vies** : Chaque joueur dispose de 3 vies
-- **Contrôles clavier** : 
-  - Joueur Rouge : WASD + Espace pour placer une bombe
-  - Joueur Bleu : Flèches directionnelles + Shift pour placer une bombe
+- **Contrôles clavier**
 - **Interface en français** : Toute l'interface utilisateur est localisée en français
 
 ###  Technologies Utilisées
