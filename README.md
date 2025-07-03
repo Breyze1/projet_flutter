@@ -79,13 +79,13 @@ bomberman_flutter/
 ##  Captures d'Écran
 
 ### Interface du Menu Principal
-[Insérer ici une capture d'écran du menu principal]
+![image](https://github.com/user-attachments/assets/0e5ff3c7-6074-4e9a-a87f-94510bda9047)
 
 ### Plateau de Jeu en Action
-[Insérer ici une capture d'écran du jeu en cours]
+![image](https://github.com/user-attachments/assets/6b55b6d6-e1ca-440d-a0af-1f157cb78ca0)
 
 ### Écran de Fin de Partie
-[Insérer ici une capture d'écran de fin de partie]
+![image](https://github.com/user-attachments/assets/c962cbc6-2a4d-402a-8308-cdd5d3f1ec93)
 
 ##  Lien vers le Dépôt Git
 
