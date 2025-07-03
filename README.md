@@ -64,7 +64,7 @@ bomberman_flutter/
 │   │   └── widgets/
 │   │       └── game_board.dart    # Widget d'affichage du plateau
 │   ├── pubspec.yaml               # Dépendances du projet
-│   └── README.md                  # Documentation
+│   └── rendu-projet-bomberman.md                 # Documentation
 ```
 
 ##  Captures d'Écran
