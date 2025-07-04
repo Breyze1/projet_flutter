@@ -78,12 +78,6 @@ bomberman_flutter/
 ### Écran de Fin de Partie
 ![image](https://github.com/user-attachments/assets/c962cbc6-2a4d-402a-8308-cdd5d3f1ec93)
 
-##  Lien vers le Dépôt Git
-
-**Dépôt GitHub :** https://github.com/Breyze1/projet_flutter
-
-**Branche principale :** `main` ou `master`
-
 ##  Instructions d'Installation et d'Exécution
 
 1. Cloner le dépôt :
