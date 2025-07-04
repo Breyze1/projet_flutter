@@ -113,5 +113,3 @@ bomberman_flutter/
 - Mode solo contre IA
 
 ---
-
-**Note :** Ce projet démontre une maîtrise complète de Flutter, de la gestion d'état avec Provider, et de la programmation orientée objet en Dart. Le code est bien structuré, commenté en français, et prêt pour la production. 
